@@ -1,4 +1,4 @@
- 👋 Hi, I’m Shalaka Sarag. I am a Aspring Data Scientist with a Master's Degree in Data Science from University of Sussex, United Kingdom. 
+ 👋 Hi, I’m Shalaka Sarag. I am a Aspring Data Scientist with a Master's Degree in Data Science from the University of Sussex, United Kingdom. 
     I have experience in Exploratory Data Analysis, Data Visualization, building Machine Learning and Natural Language Processing Models. 
     Over the year I have worked on some intresting projects which made me ready to enter the competetive industry of Data Science. 
 
